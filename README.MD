@@ -1,6 +1,6 @@
-![Awesome React DEV](https://github.com/neyric/awesome-react/blob/master/awesome-react.webp)
+![Awesome React](https://github.com/neyric/awesome-react/blob/master/awesome-react.webp)
 
-# Awesome React DEV
+# Awesome React
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
