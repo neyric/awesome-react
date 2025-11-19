@@ -3,11 +3,11 @@
 # Awesome React DEV
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 A curated collection of the best React libraries, tools, resources, and frameworks.
 
-This repository serves as the source of truth for [Awesome-React.dev](http://awesome-react.dev/). The goal is to help developers build modern React applications efficiently by providing a categorized list of high-quality resources.
+This repository serves as the source of truth for [Awesome-React.dev](https://awesome-react.dev/). The goal is to help developers build modern React applications efficiently by providing a categorized list of high-quality resources.
 
 ## 📖 Categories
 
