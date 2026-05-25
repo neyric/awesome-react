@@ -41,6 +41,7 @@ This repository serves as the source of truth for [Awesome-React.dev](https://aw
 - [Framework7](https://github.com/framework7io/framework7) - A full-featured framework for building mobile and hybrid apps with a native look and feel.
 - [Ariakit](https://github.com/ariakit/ariakit) - A low-level library for building accessible, WAI-ARIA compliant web components.
 - [8bitcn UI](https://github.com/TheOrcDev/8bitcn-ui) - A retro-styled, 8-bit component library for nostalgic user interfaces.
+- [Trophy UI](https://github.com/trophyso/ui) - [demo](https://ui.trophy.so) - [docs](https://ui.trophy.so/docs) - Open-source gamification component library for streaks, achievements, leaderboards, and points.
 
 ### Frameworks
 *Full-stack and frontend frameworks built on top of React for building modern web applications.*
@@ -67,7 +68,6 @@ This repository serves as the source of truth for [Awesome-React.dev](https://aw
 - [Redux](https://github.com/reduxjs/redux) - A predictable state container for JavaScript apps, often used for global state management.
 - [Jotai](https://github.com/pmndrs/jotai) - A primitive and flexible atomic state management library.
 - [Mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management using functional reactive programming.
-- [Recoil](https://github.com/facebookexperimental/Recoil) - A state management library for React from Meta.
 - [XState](https://github.com/statelyai/xstate) - A library for creating, interpreting, and executing finite state machines and statecharts.
 - [Effector](https://github.com/zerobias/effector) - A high-performance, multi-store state manager for handling complex business logic.
 - [Immer](https://github.com/immerjs/immer) - A library meant to work with immutable state in a more convenient, mutable way.
